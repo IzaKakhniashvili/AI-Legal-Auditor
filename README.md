@@ -63,7 +63,7 @@ ai-legal-auditor/
 - **Python 3.10+** (3.11 used in development) — MCP package requires `>=3.10`
 - **Node 18+** + npm (for the frontend)
 - **`npx`** in PATH (the MCP filesystem server is run via npx)
-- **Anthropic API key** with credits — get one at https://console.anthropic.com
+- **Anthropic API key** with credits 
 
 ---
 
