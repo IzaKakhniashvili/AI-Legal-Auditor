@@ -1,0 +1,230 @@
+Health, Safety, and Environmental Policy
+Document ID: POL-HSE-008
+Version: 2.4
+Effective Date: March 1, 2025
+Last Reviewed: February 15, 2025
+Approved By: Chief Operating Officer, HSE Director
+Classification: Internal - Mandatory Compliance
+1. Purpose and Scope
+1.1 Purpose
+This policy establishes the health, safety, and environmental (HSE) standards for Meridian Holdings Group ("the Company").
+The Company is committed to providing a safe and healthy working environment, minimizing environmental impact, and
+complying with all applicable HSE laws and regulations.
+1.2 Scope
+This policy applies to:
+- All employees, contractors, visitors, and any other persons on Company premises
+- All Company operations, facilities, and work activities
+- All products and services provided by the Company
+- All environmental aspects of the Company's operations
+2. Health and Safety Management
+2.1 Management Commitment
+a) Senior management is responsible for establishing and maintaining a safe working environment
+b) Adequate resources (financial, personnel, time) must be allocated for HSE activities
+c) HSE performance is included in management performance evaluations
+d) The HSE Director has direct access to the CEO and Board on HSE matters
+Page 1/8
+Health, Safety, and Environmental Policy
+2.2 Risk Assessment
+a) Workplace risk assessments must be conducted annually for all work areas and activities
+b) Risk assessments must be updated whenever there is a significant change in operations, equipment, or processes
+c) Job-specific risk assessments are required for hazardous activities
+d) Risk assessments must identify hazards, evaluate risks, and define control measures
+e) Residual risks must be communicated to affected personnel
+2.3 Hazard Controls
+Controls must be implemented following the hierarchy of controls:
+1. Elimination: Remove the hazard entirely
+2. Substitution: Replace with a less hazardous alternative
+3. Engineering Controls: Isolate people from the hazard (guards, ventilation, barriers)
+4. Administrative Controls: Change work procedures, training, signage
+5. Personal Protective Equipment (PPE): Last resort - provide appropriate PPE
+3. Workplace Safety Standards
+3.1 General Workplace Safety
+a) All workplaces must comply with applicable building codes and occupational safety standards
+b) Emergency exits must be clearly marked, unobstructed, and accessible at all times
+c) Fire extinguishers must be inspected monthly and serviced annually
+d) First aid kits must be maintained and stocked in all work areas (minimum 1 per 50 employees)
+e) Trained first aiders must be available in all locations (minimum 1 per 100 employees)
+f) Workplace inspections must be conducted monthly by department safety representatives
+3.2 Ergonomics
+a) Workstation assessments must be conducted for all office workers within 30 days of hire
+b) Ergonomic equipment (adjustable chairs, monitor stands, keyboard trays) must be provided
+c) Employees must take regular breaks from prolonged sitting or repetitive tasks
+d) Employees with musculoskeletal concerns must be referred for specialist ergonomic assessment
+3.3 Electrical Safety
+a) All electrical installations must comply with applicable electrical codes
+b) Portable electrical equipment must be tested annually (PAT testing)
+Page 2/8
+Health, Safety, and Environmental Policy
+c) Only qualified electricians may perform electrical work
+d) Employees must not modify electrical equipment or use damaged cables/connectors
+e) Extension cords must not be used as permanent wiring
+3.4 Working at Height
+a) Working at height must be avoided where reasonably practicable
+b) Where unavoidable, a working at height risk assessment must be completed
+c) Fall protection equipment must be provided and inspected before each use
+d) Scaffolding must be erected and inspected by competent persons
+e) All personnel working at height must be trained and certified
+4. Emergency Preparedness
+4.1 Emergency Plans
+a) Emergency response plans must be developed for all facilities
+b) Plans must cover fire, natural disasters, medical emergencies, chemical spills, active threats, and utility failures
+c) Emergency plans must be reviewed and updated annually
+d) Emergency contact information must be prominently displayed in all work areas
+4.2 Fire Safety
+a) Fire risk assessments must be conducted annually by a qualified assessor
+b) Fire detection and suppression systems must be maintained and tested according to manufacturer specifications
+c) Fire drills must be conducted semi-annually for each facility
+d) Evacuation assembly points must be designated and communicated
+e) Fire wardens must be trained and appointed (minimum 1 per floor/zone)
+4.3 Emergency Drills
+a) Full evacuation drills: Semi-annually
+b) Shelter-in-place drills: Annually
+c) Medical emergency drills: Annually
+d) Drill results must be documented with lessons learned and improvement actions
+Page 3/8
+Health, Safety, and Environmental Policy
+5. Incident Management
+5.1 Incident Reporting
+a) All workplace incidents, accidents, near-misses, and occupational illnesses must be reported within 24 hours
+b) Serious incidents (fatality, hospitalization, amputation, loss of sight) must be reported immediately to the HSE Director
+and to regulatory authorities as required by law
+c) Incident reports must include date, time, location, persons involved, description of incident, injuries/damage, and
+immediate actions taken
+d) Anonymous reporting is available for safety concerns
+5.2 Incident Investigation
+a) All incidents resulting in injury, illness, or significant property damage must be investigated
+b) Investigations must identify root causes, not just immediate causes
+c) Investigation reports must be completed within 10 business days
+d) Corrective actions must be identified, assigned, and tracked to completion
+e) Trends and patterns must be analyzed and addressed proactively
+5.3 Workers' Compensation
+a) All work-related injuries and illnesses are covered by workers' compensation insurance
+b) Claims must be filed within 48 hours of the incident being reported
+c) The Company supports injured workers' return to work through modified duty programs
+d) Retaliation against employees who file workers' compensation claims is prohibited
+6. Occupational Health
+6.1 Health Monitoring
+a) Pre-employment health screenings are required for positions with specific health requirements
+b) Periodic health surveillance must be conducted for employees exposed to specific hazards (noise, chemicals,
+respiratory hazards)
+c) Mental health resources must be available through the Employee Assistance Program
+d) Fitness-for-duty evaluations may be required following extended illness or injury
+Page 4/8
+Health, Safety, and Environmental Policy
+6.2 Hazardous Materials
+a) An inventory of all hazardous materials must be maintained and updated quarterly
+b) Safety Data Sheets (SDS) must be accessible for all hazardous materials
+c) Employees handling hazardous materials must receive specific training
+d) Personal protective equipment must be provided and used as specified in the SDS
+e) Hazardous materials must be stored according to compatibility requirements
+f) Spill response procedures and equipment must be readily available
+6.3 Communicable Disease Management
+a) The Company maintains a Pandemic Response Plan
+b) Employees with communicable diseases must not report to the workplace until cleared by a medical professional
+c) Reasonable accommodations will be provided for employees affected by communicable diseases
+d) Enhanced hygiene and cleaning protocols may be activated during outbreaks
+7. Environmental Management
+7.1 Environmental Commitments
+The Company is committed to:
+a) Minimizing environmental impact across all operations
+b) Complying with all applicable environmental laws and regulations
+c) Continuous improvement of environmental performance
+d) Preventing pollution at source wherever practicable
+e) Setting and reviewing environmental objectives and targets annually
+7.2 Emissions and Energy
+a) Greenhouse gas emissions must be measured and reported annually (Scope 1, 2, and material Scope 3)
+b) The Company targets a 30% reduction in Scope 1 and 2 emissions by 2030 from a 2020 baseline
+c) Energy efficiency must be considered in all procurement and operational decisions
+d) Renewable energy sources must be prioritized where economically feasible
+e) Energy audits must be conducted every 3 years for all major facilities
+7.3 Waste Management
+a) Waste must be minimized through the hierarchy: Prevent, Reduce, Reuse, Recycle, Recover, Dispose
+b) Recycling programs must be implemented in all facilities
+Page 5/8
+Health, Safety, and Environmental Policy
+c) Hazardous waste must be handled, stored, transported, and disposed of by licensed contractors
+d) Waste disposal documentation (manifests, certificates) must be maintained for 5 years
+e) Single-use plastics must be eliminated from Company operations where alternatives exist
+7.4 Water Management
+a) Water consumption must be monitored and reported annually
+b) Water-efficient fixtures and equipment must be installed in all new and renovated facilities
+c) Wastewater must be treated to meet regulatory standards before discharge
+d) Water recycling systems should be considered for operations with significant water use
+7.5 Environmental Incidents
+a) Environmental incidents (spills, releases, contamination) must be reported immediately to the HSE Director
+b) Regulatory notification requirements must be met (typically within 24 hours for reportable releases)
+c) Immediate containment and cleanup measures must be implemented
+d) Root cause investigation and corrective actions are required for all environmental incidents
+8. Contractor Safety
+8.1 Contractor Management
+a) All contractors must be pre-qualified based on HSE performance and capabilities
+b) Contractor HSE requirements must be included in all procurement contracts
+c) Contractors must provide evidence of insurance, training, and competency
+d) Contractor safety inductions must be conducted before work begins on Company premises
+e) Contractor work must be supervised and monitored by designated Company personnel
+8.2 Permit to Work
+High-risk activities require a Permit to Work:
+a) Hot work (welding, cutting, brazing)
+b) Confined space entry
+c) Electrical isolation and lockout/tagout
+d) Working at height above 2 meters
+e) Excavation and ground disturbance
+f) Work involving asbestos or other hazardous materials
+Permits must be issued by authorized personnel, displayed at the work site, and returned upon completion.
+Page 6/8
+Health, Safety, and Environmental Policy
+9. Training and Competency
+9.1 HSE Training
+Training Type Audience Frequency
+General HSE induction All new employees/contractors At hire
+Fire safety and evacuation All employees Annual
+First aid Designated first aiders Every 2 years
+Hazardous materials handling Affected employees At assignment + annual
+Working at height Affected employees At assignment + every 3 years
+Environmental awareness All employees Annual
+Incident investigation Managers and safety reps Every 2 years
+Driver safety Company vehicle users Every 3 years
+9.2 Competency Assurance
+a) Personnel performing safety-critical tasks must demonstrate competency through training, experience, and assessment
+b) Competency records must be maintained and reviewed annually
+c) Refresher training must be provided when competency gaps are identified
+10. Performance Measurement
+10.1 HSE Metrics
+The Company tracks the following HSE performance indicators:
+Leading Indicators:
+- HSE training completion rate (target: 100%)
+- Safety inspection completion rate (target: 100%)
+- Near-miss reporting rate
+- Corrective action closure rate
+Lagging Indicators:
+- Lost Time Injury Frequency Rate (LTIFR) - target: below industry average
+- Total Recordable Incident Rate (TRIR)
+- Environmental incidents
+Page 7/8
+Health, Safety, and Environmental Policy
+- Regulatory enforcement actions
+10.2 Reporting
+a) Monthly HSE reports to senior management
+b) Quarterly HSE reports to the Board
+c) Annual HSE performance report (published)
+d) Immediate notification for serious incidents
+11. Compliance and Enforcement
+11.1 Regulatory Compliance
+a) The Company must comply with all applicable HSE laws and regulations
+b) A register of applicable HSE legislation must be maintained and reviewed quarterly
+c) Regulatory inspections and communications must be coordinated through the HSE Director
+d) Regulatory notices and fines must be reported to the COO and General Counsel immediately
+11.2 Violations
+a) Safety violations may result in disciplinary action up to and including termination
+b) Willful disregard for safety rules may result in immediate dismissal
+c) Contractors who violate safety requirements may be removed from site and barred from future work
+d) The Company may be subject to regulatory fines and criminal prosecution for HSE violations
+11.3 Policy Review
+This policy is reviewed annually by the HSE Director and approved by the COO. The policy is aligned with ISO 45001
+(Occupational Health and Safety) and ISO 14001 (Environmental Management) standards.
+Appendix A: Risk Assessment Template - See separate document POL-HSE-008-A
+Appendix B: Incident Report Form - See separate document POL-HSE-008-B
+Appendix C: Permit to Work Forms - See separate document POL-HSE-008-C
+Appendix D: Emergency Response Plan Template - See separate document POL-HSE-008-D
+Appendix E: Environmental Objectives and Targets - See separate document POL-HSE-008-E
+Page 8/8

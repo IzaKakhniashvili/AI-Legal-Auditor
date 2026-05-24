@@ -1,0 +1,126 @@
+Software Development Agreement
+Contract ID: CNT-2025-0147
+Date: March 15, 2025
+Between: Meridian Holdings Group ("Client") and ByteForge Solutions Ltd ("Developer")
+1. Engagement Overview
+The Client engages the Developer to design, develop, and deploy a custom Customer Relationship Management (CRM)
+system. The Developer shall provide all necessary personnel, tools, and infrastructure to complete the project according to the
+specifications set forth in this agreement.
+2. Scope of Work
+2.1 Project Description
+The Developer shall build a cloud-based CRM system with the following modules:
+- Customer database and contact management
+- Sales pipeline and opportunity tracking
+- Marketing campaign management and analytics
+- Customer support ticketing system
+- Reporting and business intelligence dashboard
+- Mobile application (iOS and Android)
+2.2 Technical Requirements
+- Cloud-hosted on Developer's preferred infrastructure provider
+- RESTful API architecture
+- Responsive web interface
+- Integration with Client's existing ERP system (SAP)
+- Support for minimum 5,000 concurrent users
+2.3 Deliverables
+1. System architecture and design documents
+2. Fully functional CRM application
+3. API documentation
+4. User training materials
+Page 1/5
+Software Development Agreement
+5. Source code and deployment scripts
+6. 12 months of post-launch support
+3. Timeline
+Phase Deliverable Duration
+Phase 1 Requirements and design 6 weeks
+Phase 2 Core development 16 weeks
+Phase 3 Integration and testing 8 weeks
+Phase 4 User acceptance testing 4 weeks
+Phase 5 Deployment and go-live 2 weeks
+Total project duration: 36 weeks from contract execution.
+4. Pricing and Payment Terms
+4.1 Total Contract Value
+The total fixed price for the project is $1,250,000 USD.
+4.2 Payment Schedule
+Milestone Amount Due Date
+Contract signing $312,500 (25%) Upon execution
+Phase 1 completion $125,000 (10%) Upon delivery
+Phase 2 completion $375,000 (30%) Upon delivery
+Phase 3 completion $250,000 (20%) Upon delivery
+Go-live $187,500 (15%) Upon deployment
+4.3 Payment Terms
+All invoices are payable within 120 days of receipt of a valid invoice. Late payments shall accrue interest at a rate of 1.5% per
+month.
+Page 2/5
+Software Development Agreement
+5. Developer Personnel
+5.1 Team Composition
+The Developer shall provide the following team:
+- 1 Project Manager
+- 2 Senior Software Engineers
+- 4 Software Developers
+- 1 UX/UI Designer
+- 2 QA Engineers
+- 1 DevOps Engineer
+5.2 Personnel Changes
+The Developer may substitute personnel at its discretion provided that replacements have equivalent qualifications. The Client
+shall be notified of personnel changes within 14 business days.
+5.3 Subcontracting
+The Developer may subcontract portions of the work to third parties without requiring prior approval from the Client. The
+Developer remains responsible for the quality and timeliness of all subcontracted work.
+6. Intellectual Property
+6.1 Ownership
+Upon full payment, the Client shall receive a perpetual, non-exclusive license to use the CRM system. The Developer retains
+all intellectual property rights in the underlying code, frameworks, and tools developed during the project.
+6.2 Developer Tools
+The Developer may reuse any code, modules, libraries, or tools developed during this engagement in future projects for other
+clients without restriction.
+6.3 Open Source Components
+The Developer may incorporate open source software components at its discretion. A list of open source components will be
+provided upon project completion.
+Page 3/5
+Software Development Agreement
+7. Warranties
+7.1 Functional Warranty
+The Developer warrants that the CRM system will function substantially in accordance with the specifications for a period of 90
+days following deployment.
+7.2 No Other Warranties
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DEVELOPER MAKES NO WARRANTIES, EXPRESS
+OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS
+FOR A PARTICULAR PURPOSE.
+8. Limitation of Liability
+The Developer's total liability under this agreement shall not exceed the amount paid by the Client in the 6 months preceding
+the claim. In no event shall the Developer be liable for any indirect, incidental, consequential, special, or punitive damages.
+9. Term and Termination
+9.1 Term
+This agreement shall remain in effect until all deliverables have been completed and the 12-month support period has ended.
+9.2 Termination for Convenience
+Either party may terminate this agreement with 30 days written notice. Upon termination, the Client shall pay for all work
+completed to date.
+9.3 Termination for Cause
+Either party may terminate immediately upon material breach that remains uncured for 60 days after written notice.
+10. Confidentiality
+10.1 Confidential Information
+Both parties agree to treat as confidential any proprietary information disclosed during the engagement. This obligation
+continues for 1 year following termination of this agreement.
+Page 4/5
+Software Development Agreement
+10.2 Exceptions
+Confidentiality obligations do not apply to information that is publicly available, independently developed, or received from a
+third party without restriction.
+11. Indemnification
+The Developer shall indemnify the Client against any third-party claims arising from the Developer's negligence or willful
+misconduct. The Client shall indemnify the Developer against any third-party claims arising from the Client's use of the CRM
+system.
+12. General Provisions
+12.1 Governing Law
+This agreement shall be governed by the laws of the State of Delaware.
+12.2 Dispute Resolution
+Any disputes shall be resolved through binding arbitration in Wilmington, Delaware.
+12.3 Entire Agreement
+This agreement constitutes the entire agreement between the parties. No modifications shall be effective unless in writing
+signed by both parties.
+IN WITNESS WHEREOF, the parties have executed this agreement as of the date first written above.
+For Meridian Holdings Group
+For ByteForge Solutions Ltd
+Page 5/5

@@ -1,0 +1,252 @@
+Procurement and Vendor Management Policy
+Document ID: POL-PVM-003
+Version: 4.1
+Effective Date: February 1, 2025
+Last Reviewed: January 25, 2025
+Approved By: Chief Financial Officer, Chief Operating Officer
+Classification: Internal - Mandatory Compliance
+1. Purpose and Scope
+1.1 Purpose
+This policy establishes the standards and procedures for the procurement of goods and services and the management of
+vendor relationships at Meridian Holdings Group ("the Company"). The policy ensures that procurement activities are
+conducted in a manner that is transparent, competitive, ethical, and in the best interest of the Company while maintaining
+compliance with applicable laws and regulations.
+1.2 Scope
+This policy applies to:
+- All procurement of goods, services, and works by the Company and its subsidiaries
+- All departments and business units initiating or managing procurement activities
+- All employees involved in the procurement process, including budget holders, requisitioners, and approvers
+- All vendors, suppliers, contractors, and service providers engaged by the Company
+- Both direct and indirect procurement activities
+1.3 Definitions
+- Vendor: Any external entity that provides goods, services, or works to the Company.
+- Preferred Vendor: A vendor that has been pre-qualified and approved for specific categories of goods or services.
+- Sole Source: A procurement where only one vendor is capable of providing the required goods or services.
+- Purchase Order (PO): A formal document issued by the Company to a vendor, indicating the types, quantities, and
+agreed prices for goods or services.
+- Statement of Work (SOW): A document that defines the scope, deliverables, timeline, and terms of a service
+engagement.
+- Service Level Agreement (SLA): A commitment between the Company and a vendor defining the level of service
+expected.
+Page 1/9
+Procurement and Vendor Management Policy
+2. Procurement Principles
+2.1 Value for Money
+All procurement decisions must demonstrate value for money, considering not only price but also quality, reliability, total cost
+of ownership, sustainability, and risk. The lowest-price option is not necessarily the best-value option.
+2.2 Competition
+Procurement must be conducted through competitive processes to ensure fair pricing and prevent favoritism. The following
+competitive requirements apply based on contract value:
+Contract Value (Annual) Minimum Requirement
+Up to $10,000 Single quotation with documented justification
+$10,001 - $50,000 Minimum 3 written quotations
+$50,001 - $250,000 Formal Request for Proposal (RFP) with minimum 3 bidders
+$250,001 - $1,000,000 Formal RFP with minimum 5 bidders and evaluation committee
+Over $1,000,000 Formal RFP with minimum 5 bidders, evaluation committee, and
+Board approval
+2.3 Sole Source Justification
+Sole source procurement is permitted only in exceptional circumstances and requires written justification approved by the
+Procurement Director and CFO. Acceptable justifications include:
+a) Only one vendor possesses the unique capability, expertise, or intellectual property required
+b) Compatibility with existing systems or equipment that cannot be reasonably modified
+c) Genuine emergency that does not permit time for competitive procurement (limited to 90 days)
+d) Follow-on work where changing vendors would result in significant duplication of costs
+Sole source justifications must be documented and filed with the Procurement Department. The Procurement Director must
+review all sole source arrangements annually.
+2.4 Ethical Conduct
+All procurement activities must be conducted with the highest standards of ethical behavior:
+a) No employee may participate in a procurement decision where they have a personal or financial interest
+b) Confidential information received during procurement processes must not be disclosed to unauthorized parties
+c) All vendors must be treated fairly and equitably throughout the procurement process
+d) Employees must comply with the Company's Anti-Bribery and Anti-Corruption Policy (POL-ABC-002) in all vendor
+interactions
+Page 2/9
+Procurement and Vendor Management Policy
+3. Vendor Qualification and Selection
+3.1 Vendor Registration
+All vendors must be registered in the Company's Vendor Management System before any purchase order or contract is
+issued. Registration requires:
+a) Complete company information (legal name, registration number, address, ownership structure)
+b) Tax identification and registration documents
+c) Banking information for payment purposes
+d) Insurance certificates as required (see Section 3.3)
+e) Compliance certifications and declarations
+f) References from at least three other clients
+3.2 Vendor Assessment Criteria
+Vendors are assessed and scored on the following criteria:
+a) Financial Stability (20%): Credit rating, financial statements, going concern assessment
+b) Technical Capability (25%): Relevant experience, qualifications, certifications, infrastructure
+c) Quality Management (15%): Quality certifications (ISO 9001), quality control processes, defect rates
+d) Compliance (15%): Regulatory compliance, anti-bribery certifications, data protection capabilities
+e) Sustainability (10%): Environmental certifications, sustainability practices, carbon footprint
+f) Price Competitiveness (15%): Total cost of ownership, payment terms, volume discounts
+3.3 Insurance Requirements
+All vendors providing services on Company premises or handling Company assets must maintain:
+a) Commercial General Liability insurance: Minimum $2,000,000 per occurrence
+b) Professional Liability / Errors & Omissions: Minimum $1,000,000 per claim
+c) Workers' Compensation: As required by applicable law
+d) Cyber Liability insurance: Minimum $5,000,000 (for vendors handling Company data)
+e) Commercial Auto Liability: Minimum $1,000,000 (where applicable)
+Insurance certificates must be provided annually and must name the Company as an additional insured.
+Page 3/9
+Procurement and Vendor Management Policy
+4. Contract Management
+4.1 Contract Requirements
+All vendor engagements exceeding $10,000 in total value must be governed by a written contract. Contracts must include:
+a) Clear scope of goods or services to be provided
+b) Pricing, payment terms, and invoicing requirements
+c) Delivery schedules or service levels
+d) Quality standards and acceptance criteria
+e) Warranties and representations
+f) Intellectual property rights and ownership
+g) Confidentiality and data protection obligations
+h) Insurance requirements
+i) Indemnification provisions
+j) Limitation of liability
+k) Termination provisions (see Section 4.3)
+l) Dispute resolution mechanisms
+m) Compliance with Company policies including Anti-Bribery (POL-ABC-002) and Data Protection (POL-DP-001)
+n) Right to audit
+o) Force majeure provisions
+4.2 Payment Terms
+Standard payment terms are Net 45 days from receipt of a valid invoice. Deviations from standard payment terms require
+approval as follows:
+Payment Terms Approval Required
+Net 30 days Procurement Manager
+Net 15 days or less Procurement Director and CFO
+Advance payment (any amount) CFO and General Counsel
+Milestone-based payments Procurement Director
+Advance payments exceeding 20% of total contract value are prohibited without Board approval. All invoices must reference a
+valid purchase order number and be matched against received goods or completed services before payment.
+4.3 Contract Duration and Termination
+a) Initial contract terms should not exceed 3 years without approval from the Procurement Director
+b) Automatic renewal clauses are permitted only with a maximum of 2 renewal periods of 1 year each and must include a
+termination for convenience clause
+Page 4/9
+Procurement and Vendor Management Policy
+c) Termination for convenience must require no more than 90 days written notice
+d) Termination for cause must be available immediately upon material breach with a 30-day cure period for non-material
+breaches
+e) All contracts must include transition assistance obligations of at least 90 days following termination
+4.4 Contract Approval Authority
+Contract Value (Total) Approval Authority
+Up to $25,000 Department Manager
+$25,001 - $100,000 Department Director and Procurement Manager
+$100,001 - $500,000 VP and Procurement Director
+$500,001 - $2,000,000 CFO
+Over $2,000,000 CEO and Board of Directors
+5. Vendor Performance Management
+5.1 Performance Monitoring
+All vendors with contracts exceeding $50,000 annually must be subject to regular performance monitoring. Performance
+reviews must be conducted:
+- Monthly: For critical service providers
+- Quarterly: For significant vendors ($50,000 - $500,000)
+- Semi-Annually: For all other monitored vendors
+5.2 Key Performance Indicators
+Vendor performance must be measured against defined KPIs including:
+a) Delivery Performance: On-time delivery rate (target: 95% minimum)
+b) Quality Performance: Defect/error rate, compliance with specifications
+c) Responsiveness: Response time to inquiries and issues
+d) SLA Compliance: Achievement of agreed service levels (target: 99.5% for critical services)
+e) Invoice Accuracy: Percentage of invoices requiring correction
+f) Safety Performance: Incident rate for on-site vendors
+5.3 Vendor Scorecard
+A formal vendor scorecard must be maintained for all monitored vendors. The scorecard must be shared with the vendor
+during performance review meetings. Vendors consistently scoring below 70% over two consecutive review periods must be
+Page 5/9
+Procurement and Vendor Management Policy
+placed on a Performance Improvement Plan or replaced.
+5.4 Vendor Escalation
+Performance issues must be escalated according to the following hierarchy:
+- Level 1: Operational contact at vendor -> Company's contract manager
+- Level 2: Vendor account manager -> Company's department director
+- Level 3: Vendor senior management -> Company's VP or Procurement Director
+- Level 4: Vendor executive -> Company's CFO (contract termination consideration)
+6. Vendor Risk Management
+6.1 Risk Categories
+Vendor risks must be assessed across the following categories:
+a) Strategic Risk: Over-dependence on a single vendor, vendor market position
+b) Operational Risk: Service disruption, capacity constraints, quality failures
+c) Financial Risk: Vendor insolvency, pricing volatility, currency exposure
+d) Compliance Risk: Regulatory violations, anti-bribery risks, data protection risks
+e) Reputational Risk: Association with vendors involved in unethical practices
+f) Cybersecurity Risk: Data breaches, system vulnerabilities, access management
+g) Geopolitical Risk: Sanctions exposure, political instability, trade restrictions
+6.2 Vendor Concentration
+No single vendor should account for more than 30% of total procurement spend in any category without explicit risk
+acceptance from the CFO. For critical goods and services, at least two qualified alternative vendors must be identified and
+maintained as backup options.
+6.3 Business Continuity
+For critical vendors, Business Continuity Plans must be:
+a) Requested and reviewed during vendor qualification
+b) Tested jointly at least annually
+c) Updated to reflect changes in vendor operations
+d) Documented in the Company's own Business Continuity Plan
+Page 6/9
+Procurement and Vendor Management Policy
+7. Sustainable Procurement
+7.1 Environmental Considerations
+The Company is committed to sustainable procurement practices. Procurement decisions must consider:
+a) Environmental impact of goods and services over their lifecycle
+b) Vendor environmental certifications (ISO 14001, B Corp, etc.)
+c) Carbon footprint of supply chain activities
+d) Use of recycled or sustainable materials
+e) Energy efficiency of products and services
+f) Waste reduction and circular economy principles
+7.2 Social Considerations
+Vendors must demonstrate commitment to:
+a) Fair labor practices and human rights
+b) Non-discrimination and equal opportunity
+c) Safe and healthy working conditions
+d) Fair wages and benefits
+e) Prohibition of child labor and forced labor
+7.3 Supplier Diversity
+The Company encourages supplier diversity and aims to allocate at least 15% of addressable procurement spend to diverse
+suppliers, including minority-owned, women-owned, veteran-owned, disability-owned, and small businesses.
+8. Purchase Order Process
+8.1 Requisition
+All procurement requests must be initiated through a formal requisition in the Company's procurement system. The requisition
+must include:
+a) Description of goods or services required
+b) Quantity and specifications
+c) Required delivery date
+d) Budget code and cost center
+e) Justification for the purchase
+Page 7/9
+Procurement and Vendor Management Policy
+f) Suggested vendor (if applicable)
+8.2 Approval Workflow
+Requisitions must be approved according to the delegation of authority matrix (Section 4.4). The procurement system will
+automatically route requisitions to the appropriate approvers.
+8.3 Purchase Order Issuance
+Once approved, the Procurement Department will issue a purchase order to the selected vendor. No goods or services may be
+ordered without a valid purchase order, except for:
+a) Emergency purchases (must be regularized within 5 business days)
+b) Petty cash purchases under $500
+c) Recurring utility and telecommunications charges covered by existing contracts
+9. Compliance and Enforcement
+9.1 Policy Violations
+Violations of this policy include but are not limited to:
+a) Splitting purchases to avoid approval thresholds
+b) Engaging vendors without proper registration and vetting
+c) Issuing or accepting goods/services without a valid purchase order
+d) Participating in procurement decisions with undisclosed conflicts of interest
+e) Sharing confidential bid information with unauthorized parties
+f) Accepting gifts or hospitality from vendors in violation of POL-ABC-002
+9.2 Consequences
+Violations may result in:
+a) Disciplinary action up to and including termination
+b) Financial liability for unauthorized commitments
+c) Reporting to law enforcement where criminal conduct is suspected
+d) Vendor suspension or debarment
+9.3 Policy Review
+This policy is reviewed annually by the CFO and Procurement Director. Changes must be approved by the CFO and
+communicated to all relevant stakeholders.
+Page 8/9
+Procurement and Vendor Management Policy
+Appendix A: Delegation of Authority Matrix - See separate document POL-PVM-003-A
+Appendix B: Vendor Registration Form - See separate document POL-PVM-003-B
+Appendix C: RFP Template - See separate document POL-PVM-003-C
+Appendix D: Vendor Scorecard Template - See separate document POL-PVM-003-D
+Appendix E: Preferred Vendor List - See separate document POL-PVM-003-E
+Page 9/9

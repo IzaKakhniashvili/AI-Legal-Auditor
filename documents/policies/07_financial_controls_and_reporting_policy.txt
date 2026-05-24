@@ -1,0 +1,220 @@
+Financial Controls and Reporting Policy
+Document ID: POL-FCR-007
+Version: 3.0
+Effective Date: January 1, 2025
+Last Reviewed: December 10, 2024
+Approved By: Chief Financial Officer, Audit Committee Chair
+Classification: Internal - Mandatory Compliance
+1. Purpose and Scope
+1.1 Purpose
+This policy establishes the internal financial controls, reporting standards, and fiscal governance requirements for Meridian
+Holdings Group ("the Company"). It ensures the accuracy, completeness, and reliability of financial information and the
+safeguarding of Company assets.
+1.2 Scope
+This policy applies to:
+- All financial transactions and records of the Company and its subsidiaries
+- All employees involved in financial processes including recording, approving, and reporting
+- All departments with budget responsibility
+- All financial systems, tools, and processes
+2. General Financial Principles
+2.1 Accuracy and Integrity
+a) All financial records must accurately reflect the economic substance of transactions
+b) No false, misleading, or artificial entries may be made in any books or records
+c) Off-books accounts, undisclosed reserves, or unrecorded funds are strictly prohibited
+d) All transactions must be supported by appropriate documentation
+e) Financial records must be maintained in accordance with Generally Accepted Accounting Principles (GAAP) or
+International Financial Reporting Standards (IFRS) as applicable
+Page 1/8
+Financial Controls and Reporting Policy
+2.2 Segregation of Duties
+The following duties must be performed by separate individuals:
+a) Authorization of transactions and recording of transactions
+b) Custody of assets and recording of assets
+c) Authorization of payments and execution of payments
+d) Preparation of financial reports and approval of financial reports
+e) User access administration and transaction processing
+Where segregation is not feasible due to team size, compensating controls (management review, audit trails) must be
+documented and approved by the CFO.
+2.3 Authorization Limits
+Transaction Type Up to $5,000 $5,001-$25,000 $25,001-$100,000 $100,001-$500,000 Over $500,000
+Operating expenses Manager Director VP CFO CEO + Board
+Capital expenditure Director VP CFO CEO Board
+Contracts Manager Director VP + Legal CFO + Legal CEO + Board
+Write-offs Manager Director + Finance CFO CEO Board
+Charitable donations Director VP CFO CEO + CCO Board
+3. Revenue Recognition
+3.1 Revenue Recognition Principles
+Revenue must be recognized in accordance with ASC 606 / IFRS 15:
+a) Identify the contract with the customer
+b) Identify the performance obligations in the contract
+c) Determine the transaction price
+d) Allocate the transaction price to the performance obligations
+e) Recognize revenue when (or as) performance obligations are satisfied
+3.2 Revenue Controls
+a) All customer contracts must be reviewed by Finance before execution to assess revenue recognition implications
+b) Non-standard contract terms (extended payment terms, contingent fees, right of return) must be approved by the CFO
+c) Revenue adjustments, credits, and write-offs exceeding $10,000 require CFO approval
+Page 2/8
+Financial Controls and Reporting Policy
+d) Multiple-element arrangements must be reviewed by the Revenue Recognition Committee
+e) Quarter-end revenue cut-off procedures must be performed within 3 business days of quarter close
+4. Expense Management
+4.1 General Expense Principles
+a) All expenses must serve a legitimate business purpose
+b) Expenses must be properly categorized and coded to the correct cost center and general ledger account
+c) Supporting documentation (receipts, invoices) is required for all expenses exceeding $25
+d) Expense reports must be submitted within 30 days of incurring the expense
+e) Expenses older than 60 days will not be reimbursed without VP approval
+4.2 Travel and Entertainment
+Travel and entertainment expenses must comply with the following limits:
+Category Limit
+Airfare Economy class for flights under 6 hours; Business class for flights 6+
+hours (with VP approval)
+Hotels Up to **$300/night** domestic; **$400/night** international (higher
+limits require VP approval)
+Meals (individual) Up to **$75/day** domestic; **$100/day** international
+Client entertainment Up to **$150/person** (consistent with Anti-Bribery Policy
+POL-ABC-002)
+Ground transportation Reasonable and documented; first-class rail permitted for trips over 2
+hours
+Personal vehicle mileage IRS standard rate per mile
+4.3 Corporate Credit Cards
+a) Corporate credit cards are issued to approved employees based on business need
+b) Cards must only be used for legitimate business expenses
+c) Personal use of corporate credit cards is strictly prohibited
+d) Monthly statements must be reconciled and approved by the cardholder's manager within 15 days
+e) Lost or stolen cards must be reported to Finance within 4 hours
+f) Cards will be deactivated immediately upon employment termination
+Page 3/8
+Financial Controls and Reporting Policy
+5. Accounts Payable
+5.1 Invoice Processing
+a) All invoices must reference a valid purchase order number
+b) Three-way matching (PO, goods receipt, invoice) is required for all purchases over $5,000
+c) Invoices must be processed within 10 business days of receipt
+d) Duplicate invoice checks must be performed before payment processing
+e) Vendor master data changes must be verified through a callback to the vendor using independently verified contact
+information
+5.2 Payment Processing
+a) Standard payment terms are Net 45 days unless contractually agreed otherwise
+b) All payments exceeding $50,000 require dual authorization
+c) Wire transfers exceeding $100,000 require CFO approval
+d) International wire transfers must comply with sanctions screening requirements
+e) Cash payments are prohibited for amounts exceeding $500
+f) Checks must require dual signatures for amounts exceeding $25,000
+5.3 Vendor Payment Controls
+a) New vendor banking details must be verified before first payment
+b) Changes to vendor banking details must be verified through independent confirmation
+c) Payments to vendors in sanctioned countries are prohibited without explicit legal clearance
+d) Advance payments to vendors must not exceed 20% of contract value without CFO approval
+e) Recurring payments must be reviewed semi-annually for continued validity
+6. Accounts Receivable
+6.1 Credit Management
+a) Credit limits must be established for all customers before extending credit
+b) Credit assessments must be conducted for new customers and reviewed annually for existing customers
+c) Credit limits exceeding $500,000 require CFO approval
+d) Orders exceeding established credit limits must be held until approved by the Credit Manager
+Page 4/8
+Financial Controls and Reporting Policy
+6.2 Collections
+a) Aging analysis must be prepared weekly and reviewed by the Finance Director
+b) Past-due accounts must be actively pursued according to the following schedule:
+- 30 days: Courtesy reminder
+- 45 days: Formal demand letter
+- 60 days: Phone contact and payment plan discussion
+- 90 days: Escalation to senior management and potential engagement of collection agency
+- 120 days: Legal review and potential write-off consideration
+6.3 Write-Offs
+a) Bad debt write-offs must be approved according to the authorization matrix (Section 2.3)
+b) All write-offs must be documented with supporting evidence of collection efforts
+c) Written-off accounts must be monitored for potential recovery
+d) Total annual write-offs exceeding 1% of annual revenue must be reported to the Audit Committee
+7. Asset Management
+7.1 Fixed Asset Controls
+a) All assets with a value exceeding $5,000 and useful life exceeding 1 year must be capitalized
+b) Asset tags must be affixed to all capitalized assets
+c) Physical inventory of fixed assets must be conducted annually
+d) Discrepancies between the asset register and physical inventory must be investigated and resolved within 30 days
+e) Asset disposals must be approved by the Department Director and Finance
+f) Asset transfers between departments must be documented
+7.2 Depreciation
+Assets must be depreciated using the straight-line method unless another method is more appropriate:
+Asset Category Useful Life
+Buildings 30 years
+Leasehold improvements Shorter of useful life or lease term
+Furniture and fixtures 7 years
+Computer hardware 3-5 years
+Software 3 years
+Page 5/8
+Financial Controls and Reporting Policy
+Vehicles 5 years
+Machinery and equipment 5-10 years
+8. Financial Reporting
+8.1 Internal Reporting
+a) Monthly financial statements must be prepared and distributed to senior management within 10 business days of
+month-end
+b) Quarterly management reports must include variance analysis, cash flow forecasts, and KPI performance
+c) Annual budgets must be prepared by October and approved by the Board by December
+d) Significant variances (over 10% or $100,000) must be investigated and explained
+8.2 External Reporting
+a) Annual financial statements must be audited by an independent external auditor
+b) Quarterly financial results must be reviewed by external auditors
+c) All external financial communications must be approved by the CFO
+d) Earnings guidance and forward-looking statements must be approved by the CEO and General Counsel
+8.3 Tax Compliance
+a) All tax returns must be filed accurately and on time in all jurisdictions
+b) Transfer pricing documentation must be maintained for all intercompany transactions
+c) Tax positions must be reviewed and approved by the Tax Director
+d) Material tax issues must be reported to the Audit Committee
+e) The Company does not engage in aggressive tax avoidance schemes
+9. Internal Audit
+9.1 Audit Function
+a) The Internal Audit function reports directly to the Audit Committee
+b) Internal audits are conducted according to an annual risk-based audit plan
+c) All departments and processes are subject to internal audit
+d) Audit findings must be tracked to remediation with agreed timelines
+Page 6/8
+Financial Controls and Reporting Policy
+e) Follow-up audits verify remediation effectiveness
+9.2 External Audit
+a) The external auditor is appointed by the Audit Committee
+b) External audit rotation occurs every 5 years (audit partner rotation every 3 years)
+c) The external auditor's independence must be maintained - prohibited non-audit services include bookkeeping, financial
+system design, and management functions
+d) Management letter findings must be addressed within 90 days
+10. Fraud Prevention and Detection
+10.1 Anti-Fraud Controls
+a) Fraud risk assessments are conducted annually as part of the enterprise risk management process
+b) Anonymous reporting mechanisms (hotline, web portal) are available for reporting suspected fraud
+c) All reports of suspected fraud are investigated by Internal Audit
+d) Data analytics tools are used to identify unusual transaction patterns
+e) Background checks are conducted for all employees in financial roles
+10.2 Fraud Response
+a) Suspected fraud must be reported immediately to the CFO and Internal Audit
+b) Investigations are conducted confidentially
+c) Law enforcement will be engaged for confirmed fraud exceeding $10,000
+d) Recovery of losses will be pursued through all available legal means
+e) Employees involved in fraud will be terminated and reported to relevant authorities
+11. Compliance and Enforcement
+11.1 Monitoring
+The Finance Department monitors compliance through:
+a) Monthly reconciliations of all balance sheet accounts
+b) Quarterly review of segregation of duties controls
+c) Annual SOX compliance assessment (where applicable)
+Page 7/8
+Financial Controls and Reporting Policy
+d) Continuous monitoring of transaction patterns for anomalies
+11.2 Violations
+Violations of this policy may result in:
+a) Disciplinary action up to and including termination
+b) Financial liability for unauthorized transactions
+c) Criminal referral for fraudulent activities
+d) Regulatory reporting where required by law
+11.3 Policy Review
+This policy is reviewed annually by the CFO and approved by the Audit Committee. Emergency amendments may be issued in
+response to regulatory changes or identified control weaknesses.
+Appendix A: Chart of Accounts - See separate document POL-FCR-007-A
+Appendix B: Delegation of Authority Matrix - See separate document POL-FCR-007-B
+Appendix C: Month-End Close Checklist - See separate document POL-FCR-007-C
+Appendix D: Expense Report Form - See separate document POL-FCR-007-D
+Page 8/8

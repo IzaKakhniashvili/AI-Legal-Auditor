@@ -1,0 +1,226 @@
+Intellectual Property and Confidentiality Policy
+Document ID: POL-IPC-005
+Version: 2.6
+Effective Date: April 1, 2025
+Last Reviewed: March 20, 2025
+Approved By: General Counsel, Chief Technology Officer
+Classification: Internal - Mandatory Compliance
+1. Purpose and Scope
+1.1 Purpose
+This policy establishes the framework for the protection, management, and enforcement of intellectual property (IP) rights and
+confidential information belonging to or managed by Meridian Holdings Group ("the Company"). It ensures that all IP created
+during the course of business is properly identified, protected, and leveraged for the Company's benefit while respecting the IP
+rights of third parties.
+1.2 Scope
+This policy applies to:
+- All employees, contractors, consultants, temporary workers, and interns
+- All forms of intellectual property including patents, trademarks, copyrights, trade secrets, know-how, and proprietary
+information
+- All confidential business information regardless of format (digital, physical, verbal)
+- All third-party IP that the Company licenses, accesses, or uses
+2. Intellectual Property Ownership
+2.1 Company-Owned IP
+All intellectual property created by employees during the course of their employment or using Company resources is the
+exclusive property of the Company. This includes:
+a) Inventions, discoveries, and improvements, whether or not patentable
+b) Software code, algorithms, and technical designs
+c) Literary works, reports, presentations, and documentation
+Page 1/8
+Intellectual Property and Confidentiality Policy
+d) Trademarks, service marks, logos, and branding materials
+e) Trade secrets, formulas, processes, and methods
+f) Customer lists, business plans, and strategic information
+g) Data, databases, and compilations of information
+2.2 Assignment of Rights
+All employees and contractors must execute an Intellectual Property Assignment Agreement as a condition of engagement.
+This agreement assigns to the Company all rights, title, and interest in IP created:
+a) During the course of employment or engagement
+b) Using Company resources, facilities, or equipment
+c) Relating to the Company's current or anticipated business
+d) Resulting from work performed for the Company
+The assignment includes all worldwide rights in all forms and media, whether now known or hereafter devised, for the full term
+of protection available under applicable law.
+2.3 Contractor and Third-Party IP
+When engaging contractors or third parties to create IP for the Company:
+a) All contracts must include clear IP assignment provisions transferring ownership to the Company
+b) Work-for-hire provisions must be included where applicable under law
+c) Contractors must warrant that their work does not infringe third-party IP rights
+d) Contractors must disclose any pre-existing IP that will be incorporated into deliverables
+e) Licenses for pre-existing IP must be obtained on terms acceptable to the Company
+f) The Company must receive perpetual, irrevocable, worldwide, royalty-free licenses for any contractor pre-existing IP
+incorporated into deliverables
+2.4 Open Source Software
+The use of open source software must comply with the following:
+a) All open source components must be approved by the Technology Department before use
+b) An inventory of all open source software used in Company products must be maintained
+c) License obligations (attribution, source code disclosure, copyleft requirements) must be identified and complied with
+d) Open source software with copyleft licenses (GPL, AGPL) must not be incorporated into proprietary Company products
+without approval from the General Counsel
+e) Contributions to open source projects on behalf of the Company require approval from the CTO and General Counsel
+Page 2/8
+Intellectual Property and Confidentiality Policy
+3. Confidential Information
+3.1 Definition and Classification
+Confidential information includes any non-public information that has commercial value or could cause harm to the Company if
+disclosed. Information is classified as follows:
+Classification Description Examples
+**Top Secret** Information whose disclosure would cause
+severe damage
+M&A plans, trade secrets, cryptographic keys
+**Confidential** Information whose disclosure would cause
+significant harm
+Financial results (pre-release), customer data,
+source code
+**Internal** Information intended for internal use only Internal policies, org charts, internal
+communications
+**Public** Information approved for public disclosure Press releases, marketing materials,
+published reports
+3.2 Handling Requirements
+Classification Storage Transmission Sharing Disposal
+**Top Secret** Encrypted, restricted
+access, no cloud storage
+Encrypted, approved
+channels only
+Named individuals only,
+NDA required
+Certified destruction
+**Confidential** Encrypted, access
+controlled
+Encrypted Need-to-know basis, NDA
+for external
+Secure deletion/shredding
+**Internal** Company systems only Company email/systems Internal personnel only Standard deletion
+**Public** No restrictions No restrictions No restrictions No restrictions
+3.3 Non-Disclosure Obligations
+a) All employees must sign a Non-Disclosure Agreement (NDA) as a condition of employment
+b) NDAs must remain in effect for a minimum of 5 years following termination of employment or engagement
+c) For trade secrets, the obligation of confidentiality continues indefinitely for as long as the information remains a trade
+secret
+d) External parties must execute an NDA before receiving any Company confidential information
+e) Mutual NDAs with third parties must be reviewed and approved by the Legal Department
+3.4 Confidentiality Exceptions
+Confidential information may be disclosed without prior authorization only when:
+a) Required by law, regulation, or court order (notification to Legal Department is required before disclosure)
+b) Required by regulatory authorities with jurisdiction over the Company
+Page 3/8
+Intellectual Property and Confidentiality Policy
+c) The information has become publicly available through no fault of the disclosing party
+4. Trade Secret Protection
+4.1 Identification
+Trade secrets include any proprietary information that derives economic value from not being generally known and is subject
+to reasonable efforts to maintain its secrecy. The Company maintains a Trade Secret Register identifying all recognized trade
+secrets.
+4.2 Protection Measures
+The following measures must be implemented to protect trade secrets:
+a) Physical access controls to areas where trade secrets are developed or stored
+b) Digital access controls with role-based permissions and multi-factor authentication
+c) Encryption of all digital trade secret materials at rest and in transit
+d) Marking of documents containing trade secrets with appropriate confidentiality legends
+e) Limiting access to trade secrets to individuals with a documented need-to-know
+f) Regular auditing of access logs for trade secret materials
+g) Exit interviews that specifically address trade secret obligations
+h) Clean room procedures when developing products that may be similar to competitor offerings
+4.3 Trade Secret Incidents
+Any suspected misappropriation, unauthorized disclosure, or compromise of trade secrets must be reported immediately to the
+General Counsel. The Legal Department will:
+a) Investigate the incident within 24 hours
+b) Assess the scope and impact of the disclosure
+c) Implement measures to mitigate further damage
+d) Determine whether legal action is warranted
+e) Report to law enforcement if criminal misappropriation is suspected
+5. IP in Contracts
+Page 4/8
+Intellectual Property and Confidentiality Policy
+5.1 Customer Contracts
+Customer contracts involving IP must address:
+a) Ownership of custom developments and modifications
+b) License scope, limitations, and restrictions
+c) Warranties against IP infringement
+d) Indemnification for IP infringement claims
+e) Restrictions on reverse engineering
+f) Survival of IP provisions beyond contract termination
+5.2 Vendor and Supplier Contracts
+All contracts with vendors or suppliers who may create, access, or handle Company IP must include:
+a) Clear IP ownership provisions (default: Company owns all custom work product)
+b) Confidentiality obligations consistent with this policy
+c) Restrictions on use of Company IP beyond the scope of the engagement
+d) Obligations to return or destroy Company IP upon termination
+e) Right to audit vendor compliance with IP obligations
+f) Representations that vendor deliverables do not infringe third-party IP
+g) Indemnification for any IP infringement in vendor deliverables
+5.3 Joint Development
+Joint development arrangements with third parties must:
+a) Be approved by the General Counsel and CTO before commencement
+b) Include a detailed Joint Development Agreement specifying IP ownership
+c) Clearly allocate ownership of foreground IP (created during the collaboration)
+d) Address licensing of background IP (pre-existing IP contributed by each party)
+e) Define rights to jointly-created IP, including commercialization rights
+f) Include provisions for dispute resolution regarding IP ownership
+6. IP Enforcement
+6.1 Monitoring
+The Legal Department maintains an ongoing IP monitoring program that includes:
+a) Trademark watch services for registered marks
+Page 5/8
+Intellectual Property and Confidentiality Policy
+b) Patent monitoring for potential infringements
+c) Internet monitoring for unauthorized use of Company IP
+d) Competitor product analysis for potential IP violations
+e) Domain name monitoring for cybersquatting
+6.2 Enforcement Actions
+Upon identification of potential IP infringement:
+a) The Legal Department will assess the nature and scope of the infringement
+b) A cease-and-desist letter will be issued where appropriate
+c) Alternative dispute resolution will be considered before litigation
+d) Litigation will be pursued when necessary to protect the Company's IP rights
+e) Criminal referrals will be made in cases of willful counterfeiting or piracy
+6.3 Defensive IP Strategy
+The Company maintains a defensive IP strategy that includes:
+a) Building and maintaining a strong patent portfolio
+b) Registering trademarks in all relevant jurisdictions
+c) Maintaining comprehensive copyright registrations
+d) Participating in patent pools and cross-licensing arrangements where beneficial
+e) Implementing freedom-to-operate analyses before launching new products
+7. Employee Responsibilities
+7.1 General Obligations
+All employees must:
+a) Protect Company IP and confidential information at all times
+b) Report any suspected IP infringement or breach of confidentiality immediately
+c) Comply with all marking and handling requirements for classified information
+d) Not use personal devices or accounts for Company confidential information without IT approval
+e) Cooperate with IP protection measures including audits and investigations
+f) Not disclose Company IP in academic publications, conference presentations, or social media without prior approval from
+the Legal Department
+Page 6/8
+Intellectual Property and Confidentiality Policy
+7.2 Departing Employees
+Employees leaving the Company must:
+a) Participate in an exit interview that addresses IP and confidentiality obligations
+b) Return all Company materials, documents, and devices
+c) Confirm deletion of all Company information from personal devices and accounts
+d) Acknowledge ongoing confidentiality and non-disclosure obligations
+e) Acknowledge any applicable non-compete or non-solicitation restrictions
+8. Compliance and Enforcement
+8.1 Training
+All employees must complete IP and confidentiality training within 30 days of hire and annually thereafter. Training covers:
+a) Types of IP and their importance to the Company
+b) Classification and handling of confidential information
+c) Employee obligations regarding IP and confidentiality
+d) Common scenarios and decision-making guidance
+e) Reporting procedures for suspected violations
+8.2 Violations
+Violations of this policy may result in:
+a) Disciplinary action up to and including termination
+b) Legal action for damages and injunctive relief
+c) Criminal prosecution for theft of trade secrets
+d) Personal liability for losses caused by the violation
+8.3 Policy Review
+This policy is reviewed annually by the General Counsel and CTO. Updates are communicated to all personnel through the
+Company's policy management system.
+Appendix A: IP Assignment Agreement Template - See separate document POL-IPC-005-A
+Appendix B: Non-Disclosure Agreement Template - See separate document POL-IPC-005-B
+Appendix C: Trade Secret Register - See separate document POL-IPC-005-C
+Appendix D: Open Source Approval Request Form - See separate document POL-IPC-005-D
+Page 7/8
+Intellectual Property and Confidentiality Policy
+Appendix E: Information Classification Guide - See separate document POL-IPC-005-E
+Page 8/8

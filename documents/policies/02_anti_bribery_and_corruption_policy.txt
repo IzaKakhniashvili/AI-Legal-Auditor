@@ -1,0 +1,246 @@
+Anti-Bribery and Anti-Corruption Policy
+Document ID: POL-ABC-002
+Version: 2.8
+Effective Date: March 1, 2025
+Last Reviewed: February 20, 2025
+Approved By: Chief Compliance Officer, Board of Directors
+Classification: Internal - Mandatory Compliance
+1. Purpose and Scope
+1.1 Purpose
+This policy establishes a zero-tolerance approach to bribery and corruption in all forms. Meridian Holdings Group ("the
+Company") is committed to conducting business ethically and in compliance with all applicable anti-bribery and anti-corruption
+laws, including the U.S. Foreign Corrupt Practices Act (FCPA), the UK Bribery Act 2010, and local anti-corruption laws in all
+jurisdictions where the Company operates.
+1.2 Scope
+This policy applies to all individuals working at all levels and grades of the Company, including:
+- Senior managers, officers, and directors
+- All employees (whether permanent, fixed-term, or temporary)
+- Consultants, contractors, and agency workers
+- Joint venture partners
+- Agents, intermediaries, and representatives acting on behalf of the Company
+- Any third party performing services for or on behalf of the Company
+1.3 Definitions
+- Bribery: Offering, promising, giving, accepting, or soliciting an advantage as an inducement for an action which is illegal,
+unethical, or a breach of trust.
+- Corruption: The abuse of entrusted power for private gain, including but not limited to embezzlement, extortion, fraud, and
+collusion.
+- Facilitation Payment: A small, unofficial payment made to secure or expedite the performance of a routine or necessary
+action by a government official.
+- Government Official: Any officer or employee of a government or any department, agency, or instrumentality thereof,
+including state-owned enterprises, public international organizations, and political parties or candidates for political office.
+- Kickback: A payment made to someone who has facilitated a transaction or appointment, typically calculated as a
+percentage of the sum paid.
+Page 1/9
+Anti-Bribery and Anti-Corruption Policy
+2. Prohibited Conduct
+2.1 General Prohibition
+The following conduct is strictly prohibited:
+a) Offering, promising, giving, or authorizing the giving of any financial or other advantage to any person (whether a
+government official or private individual) with the intention of inducing them to perform a function improperly, rewarding
+them for improper performance, or securing any improper business advantage.
+b) Requesting, agreeing to receive, or accepting any financial or other advantage as an inducement or reward for improper
+performance of any function or activity.
+c) Making or authorizing any facilitation payment, regardless of local custom or practice. There are no exceptions to this
+prohibition.
+d) Making any contribution, donation, or expenditure to a political party, political campaign, or political candidate without
+prior written approval from the Chief Compliance Officer and General Counsel.
+e) Engaging in any form of money laundering or knowingly assisting others in money laundering activities.
+2.2 Third-Party Conduct
+The Company may be held liable for acts of bribery or corruption committed by third parties acting on its behalf. All personnel
+must ensure that third parties acting for or on behalf of the Company comply with this policy. This includes agents,
+intermediaries, consultants, distributors, and joint venture partners.
+3. Gifts, Hospitality, and Entertainment
+3.1 General Principles
+Business gifts, hospitality, and entertainment can be a legitimate part of building business relationships. However, they must
+never be used as a means to improperly influence business decisions or create an obligation.
+3.2 Permissible Gifts
+Gifts may be given or received only if all of the following conditions are met:
+a) The gift is of nominal value not exceeding $250 USD (or local currency equivalent) per item and $500 USD per recipient
+per calendar year cumulatively
+b) The gift is not in the form of cash or cash equivalents (gift cards, vouchers, cryptocurrency, etc.)
+c) The gift is appropriate to the business relationship and cultural context
+d) The gift is not given or received during or immediately before a business decision, tender process, or contract
+Page 2/9
+Anti-Bribery and Anti-Corruption Policy
+negotiation
+e) The gift is properly recorded in the Company's Gift and Hospitality Register
+3.3 Permissible Hospitality and Entertainment
+Hospitality and entertainment may be offered or accepted only if:
+a) The cost is reasonable and proportionate, not exceeding $150 USD per person per event
+b) The hospitality serves a legitimate business purpose
+c) The host is present at the event
+d) The hospitality is not lavish or extravagant by reasonable standards
+e) The hospitality does not include travel or accommodation expenses for the recipient (unless pre-approved by the Chief
+Compliance Officer)
+f) The event is properly recorded in the Gift and Hospitality Register
+3.4 Prohibited Gifts and Hospitality
+The following are strictly prohibited regardless of value:
+a) Cash or cash equivalent gifts
+b) Gifts or hospitality to or from government officials without prior written approval from the Chief Compliance Officer
+c) Gifts or hospitality during active procurement, tender, or negotiation processes
+d) Gifts or hospitality that the giver or recipient would be uncomfortable disclosing publicly
+e) Gifts or hospitality that violate the recipient's own organization's policies
+f) Travel, accommodation, or holiday expenses for third parties
+g) Tickets to events where no business purpose exists
+3.5 Gift and Hospitality Register
+All gifts given or received with a value exceeding $50 USD must be recorded in the Company's Gift and Hospitality Register
+within 5 business days. The register entry must include:
+- Date of the gift/hospitality
+- Description and estimated value
+- Name and organization of the giver/recipient
+- Business justification
+- Whether approval was obtained (if required)
+The Gift and Hospitality Register is maintained by the Compliance Department and is subject to quarterly review by the Chief
+Compliance Officer.
+Page 3/9
+Anti-Bribery and Anti-Corruption Policy
+4. Dealing with Government Officials
+4.1 Enhanced Requirements
+All interactions with government officials require heightened diligence. The following additional requirements apply:
+a) No gifts, hospitality, or entertainment may be provided to government officials without prior written approval from the
+Chief Compliance Officer. This applies regardless of value.
+b) All meetings with government officials must be documented, including the date, participants, purpose, and outcomes.
+c) Engagement of any agent, intermediary, or consultant to interact with government officials on behalf of the Company
+requires approval from the Chief Compliance Officer and General Counsel.
+d) All payments to government officials or government entities must be made through official channels, properly
+documented, and supported by a legitimate business purpose.
+4.2 Government Contracts
+When bidding for or performing government contracts:
+a) All representations made to government entities must be accurate and complete
+b) No improper payments or advantages may be offered to influence contract award decisions
+c) All subcontractors and suppliers involved in government contracts must be vetted for compliance with this policy
+d) Cost and pricing data submitted to government entities must be current, accurate, and complete
+5. Third-Party Due Diligence
+5.1 Risk Assessment
+Before engaging any third party who will interact with government officials, make payments on behalf of the Company, or
+operate in high-risk jurisdictions, a bribery and corruption risk assessment must be conducted. The risk assessment must
+consider:
+a) Country risk - using recognized corruption indices (Transparency International CPI, World Bank Governance Indicators)
+b) Industry risk - prevalence of corruption in the relevant industry sector
+c) Transaction risk - nature, value, and complexity of the proposed engagement
+d) Business partner risk - ownership structure, reputation, and history of the third party
+e) Business rationale - whether there is a legitimate business reason for the engagement
+Page 4/9
+Anti-Bribery and Anti-Corruption Policy
+5.2 Due Diligence Procedures
+Based on the risk assessment, the following levels of due diligence must be conducted:
+Standard Due Diligence (Low Risk):
+- Identity verification and corporate registration check
+- Sanctions and watch list screening
+- Media screening for adverse information
+- Self-certification of compliance with anti-bribery laws
+Enhanced Due Diligence (Medium to High Risk):
+- All standard due diligence measures, plus:
+- Detailed background investigation including beneficial ownership
+- Financial health assessment
+- Reference checks from other clients
+- Site visit where practicable
+- Review of the third party's own anti-bribery policies and procedures
+- Interview with senior management of the third party
+Critical Due Diligence (Very High Risk):
+- All enhanced due diligence measures, plus:
+- Engagement of external specialist investigation firm
+- Review by General Counsel
+- Approval by the Board Compliance Committee
+5.3 Contractual Protections
+All contracts with third parties must include:
+a) Representations and warranties that the third party has not and will not engage in bribery or corruption
+b) The right of the Company to audit the third party's compliance
+c) Obligation to maintain accurate books and records
+d) Immediate notification obligations in the event of any suspected or actual bribery or corruption
+e) Right of the Company to terminate the contract immediately for any breach of anti-bribery obligations
+f) Indemnification for any losses arising from the third party's breach of anti-bribery obligations
+6. Books, Records, and Financial Controls
+Page 5/9
+Anti-Bribery and Anti-Corruption Policy
+6.1 Accurate Record-Keeping
+All transactions must be accurately and completely recorded in the Company's books and records. No off-books accounts,
+undisclosed funds, or false entries may be created or maintained for any purpose. Specific requirements include:
+a) All payments must be supported by legitimate invoices and documentation
+b) All expenses must be properly categorized and coded
+c) Cash payments exceeding $500 USD are prohibited without prior approval from the Finance Director
+d) All commissions, rebates, and discounts must be properly documented and commercially justified
+e) Petty cash funds must not exceed $1,000 USD and must be reconciled monthly
+6.2 Internal Controls
+The Finance Department must maintain internal controls sufficient to provide reasonable assurance that:
+a) Transactions are executed only with proper authorization
+b) Transactions are recorded as necessary to permit preparation of accurate financial statements
+c) Access to Company assets is permitted only with management authorization
+d) Recorded assets are compared with existing assets at reasonable intervals
+e) Appropriate action is taken regarding any discrepancies
+7. Charitable Donations and Sponsorships
+7.1 Charitable Donations
+Charitable donations are permitted only when:
+a) The recipient is a bona fide charitable organization registered in accordance with applicable law
+b) The donation does not exceed $10,000 USD without approval from the Chief Compliance Officer
+c) The donation is not made at the request or suggestion of a government official
+d) The donation is not intended to influence any business decision
+e) Due diligence is conducted on the recipient organization
+f) The donation is properly documented and reported
+7.2 Sponsorships
+Corporate sponsorships must:
+a) Serve a legitimate business purpose
+b) Be approved by the Marketing Director and Chief Compliance Officer
+c) Be conducted at arm's length with fair market value terms
+Page 6/9
+Anti-Bribery and Anti-Corruption Policy
+d) Not be used as a conduit for improper payments
+e) Be documented with a written sponsorship agreement
+8. Whistleblowing and Reporting
+8.1 Reporting Obligations
+All personnel have an obligation to report any known or suspected violations of this policy. Reports may be made through:
+a) Direct report to line manager or department head
+b) Report to the Chief Compliance Officer
+c) Report to the General Counsel
+d) The Company's confidential whistleblowing hotline: [hotline number]
+e) The Company's anonymous online reporting portal: [portal URL]
+8.2 Non-Retaliation
+The Company prohibits retaliation against any person who reports in good faith a suspected violation of this policy. Retaliation
+includes termination, demotion, suspension, harassment, or any other adverse employment action. Any person who retaliates
+against a whistleblower will be subject to disciplinary action up to and including termination.
+8.3 Investigation
+All reports of suspected violations will be promptly investigated by the Compliance Department. Investigations will be
+conducted confidentially to the extent possible. Personnel are required to cooperate fully with any investigation.
+9. Training and Awareness
+9.1 Mandatory Training
+All personnel must complete anti-bribery and anti-corruption training:
+- Initial training: Within 30 days of joining the Company
+- Annual refresher training: Within the first quarter of each calendar year
+- Role-specific training: For personnel in high-risk roles (procurement, sales, government relations) - within 60 days of
+assuming the role
+Page 7/9
+Anti-Bribery and Anti-Corruption Policy
+9.2 Training Content
+Training must cover:
+a) The key provisions of this policy
+b) Relevant anti-bribery and anti-corruption laws
+c) Red flags for bribery and corruption
+d) Reporting obligations and procedures
+e) Consequences of non-compliance
+f) Case studies relevant to the participant's role and jurisdiction
+10. Compliance Monitoring and Enforcement
+10.1 Monitoring
+The Compliance Department will monitor compliance with this policy through:
+a) Regular audits of high-risk areas and transactions
+b) Review of the Gift and Hospitality Register
+c) Analysis of expense reports and financial transactions
+d) Monitoring of third-party relationships
+e) Review of whistleblowing reports and investigation outcomes
+10.2 Penalties for Non-Compliance
+Violations of this policy may result in:
+a) Disciplinary action up to and including termination of employment or contract
+b) Civil and criminal liability for individuals involved
+c) Reporting to law enforcement authorities
+d) Recovery of any losses suffered by the Company
+e) Termination of business relationships with non-compliant third parties
+10.3 Policy Review
+This policy is reviewed annually by the Chief Compliance Officer and approved by the Board of Directors. Interim reviews may
+be triggered by changes in applicable law, regulatory guidance, enforcement actions, or significant changes in the Company's
+business operations.
+Appendix A: High-Risk Country List - See separate document POL-ABC-002-A
+Page 8/9
+Anti-Bribery and Anti-Corruption Policy
+Appendix B: Gift and Hospitality Register Template - See separate document POL-ABC-002-B
+Appendix C: Third-Party Due Diligence Questionnaire - See separate document POL-ABC-002-C
+Appendix D: Red Flags Checklist - See separate document POL-ABC-002-D
+Page 9/9
